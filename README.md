@@ -17,7 +17,7 @@ pip3 install sys numpy pandas matplotlib seaborn warnings scikit-learn joblib st
 I strongly recommend running all files in a jupyter lab, however other IDEs are acceptable (as long as they can run .ipynb files). 
 
 
-**Instructions to run**
+**Instructions to run** \
 After installing dependencies, navigate to the folder in your terminal. 
 ```bash
 python3 app.py
