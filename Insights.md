@@ -25,4 +25,4 @@ I recommend that we either drastically decrease the monthly pricing of our Month
 
 ### Assumptions
 
-Giving this recommendation, I am assuming Month-to-Month contracts themselvese to be offensive to customers in some way. This is the limit to how nuanced our findings may get given these dateset. For instance, it could be that the channel through which customers sign their respective Month-to-Month contracts is vastly more inconvenient than One-Year or Two-Year, explaining higher churn rates. 
+Giving this recommendation, I am assuming Month-to-Month contracts themselvese to be offensive to customers in some way. This is the limit to how nuanced our findings may get given this dataset. For instance, it could be that the channel through which customers sign their respective Month-to-Month contracts is vastly more inconvenient than One-Year or Two-Year, explaining higher churn rates. 
